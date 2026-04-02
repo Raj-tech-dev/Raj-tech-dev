@@ -88,6 +88,9 @@ I sharpen problem-solving through **DSA in Java** and build end-to-end solutions
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Raj-tech-dev&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
 
 ## 🧠 Dev Quote
 

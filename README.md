@@ -84,7 +84,7 @@ I sharpen problem-solving through **DSA in Java** and build end-to-end solutions
 ## 🐍 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://github.com/Raj-tech-dev/Raj-tech-dev/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Raj-tech-dev/Raj-tech-dev/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
